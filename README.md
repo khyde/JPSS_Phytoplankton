@@ -13,8 +13,6 @@ Using the field sampling data, we will regionally optimize selected abundance-ba
 
 Following algorithm optimization, we will generate a complete satellite record (September 1997-present) time series of PFTs to characterize temporal and spatial variability in the NES. Long-term monitoring of the phytoplankton community is critical for detecting shifts in phytoplankton composition and identifying potential impacts to ecosystems and fisheries. The proposed project will help maintain a continuous stream of high quality, seamless, accurate data which are necessary to detect long-term changes that may impact primary productivity, phenology, critical marine habitats, and fisheries. These long-term time series are used to develop indices for the NEFSC Ecosystem Status Reports, which are intended to generate scientific advice and inform scientists and fisheries managers of the current state of the ecosystem and fisheries within the NES. In addition, the PFT data will be included as inputs for ecosystem (e.g. Atlantis) and protected species (e.g. AMAPPS) models. Deliverable products from this project include, high quality in situ data, optimized regionally tuned ocean color algorithms, indices derived from long-term PFT time series, fisheries model output used to inform ecosystem based fisheries management, and associated manuscripts.
 
-![Diatom image]()
-
 ## Team Members
 - Kimberly Hyde (NOAA/NEFSC)
 - Colleen Mouw (University of Rhode Island - Graduate School of Oceanography)
