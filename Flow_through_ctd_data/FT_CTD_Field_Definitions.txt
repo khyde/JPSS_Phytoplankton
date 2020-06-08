@@ -1,0 +1,13 @@
+Field definitions for flow through data
+
+Field, units, definition
+latitude, decimal degrees, Latitude
+longitude, decimal degrees, Longitude
+date, datetime of sample, yyyy-mm-dd HH:MM:SS
+depth, m, depth
+temperature, C, temperature
+salinity, PSU, salinity
+chl_ctd, ug/L or mg/m3, Chl a concentration from in-line fluorometer
+pc_ctd, ug/L or mg/m3, Phycocyanin concentration from in-line fluorometer
+cdom_ctd, none, CDOM concentration derived from in-line fluorometer
+chl_a676, ug/L or mg/m3, Chl a concentration estimated from absorption at 676 nm
